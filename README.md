@@ -1,5 +1,5 @@
 
-🆕 **Important News: PhD funded by the French Space Agency CNES and [AHEAD2020](http://ahead.iaps.inaf.it/) European project ** 
+🆕 **Important News: PhD funded by the French Space Agency [CNES](https://rt-theses.cnes.fr/?q=aas) and [AHEAD2020](http://ahead.iaps.inaf.it/) European project ** 
 
 ## Internship/PhD subjects at CEA/Saclay: New multi-dimensional analysis methods for X-rays
 For each photon the position, energy, and time of arrival is recorded by the X-ray satellite. Therefore X-ray data are multidimensional (X, Y, Energy, Time) by nature.  Here we propose to develop novel techniques to fully exploit the multidimensional nature of the data by combining blind source separation technique with feature learning (Bobin et al., 2019).
