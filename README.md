@@ -1,6 +1,11 @@
 
 🆕 **Important News: PhD funded by the French Space Agency [CNES](https://rt-theses.cnes.fr/?q=aas) and [AHEAD2020](http://ahead.iaps.inaf.it/) European project ** 
 
+![X-ray data cubes](SNR-gallery.jpg)
+A gallery of supernova remnants X-ray observations. The corresponding supernovae has been observed on Earth in the 16 and 17th century.
+Red, yellow, green and orange colours indicate the spatial distribution of the ejected heavy elements.  
+We propose to **provide a 3D view of the ejecta map** !
+
 ## Internship/PhD subjects at CEA/Saclay: New multi-dimensional analysis methods for X-rays
 For each photon the position, energy, and time of arrival is recorded by the X-ray satellite. Therefore X-ray data are multidimensional (X, Y, Energy, Time) by nature.  Here we propose to develop novel techniques to fully exploit the multidimensional nature of the data by combining blind source separation technique with feature learning (Bobin et al., 2019).
 The internship will take place at the astronomy department (http://irfu.cea.fr/dap/) can start mid-march for 3-5 months. 
