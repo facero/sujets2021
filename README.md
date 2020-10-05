@@ -12,8 +12,7 @@ Athena is the X-ray observatory L-class mission selected by ESA to launch in ear
 For each photon the position, energy, and time of arrival is recorded by the X-ray satellite. Therefore X-ray data are multidimensional (X, Y, Energy, Time) by nature.  Here we propose to develop novel techniques to fully exploit the multidimensional nature of the data by combining blind source separation technique with feature learning [Bobin, Acero, Picquenot, 2019](https://ieeexplore.ieee.org/document/9022675/).
 The internship will take place at the astronomy department (http://irfu.cea.fr/dap/) can start mid-march for 3-5 months. 
 
-If you want to know more, read the full subject description here in english:  [PDF](Sujet-these-CNES-2021-AdvTools-EN.pdf)
-If you have questions or want to apply, contact me by email (fabio.acero at cea fr) !
+If you want to know more, read the full subject description here in english:  [PDF](Sujet-these-CNES-2021-AdvTools-EN.pdf).
 
 ## Proposition de sujets de recherche en 2021 au CEA/Saclay
 Sujets de stage de Master 2 (3 à 5 mois) et de thèse sur l'étude des vestiges de supernova en rayons X disponible sur le [site de la SF2A](http://stages-masters.sf2a.eu/). 
