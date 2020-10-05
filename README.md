@@ -11,7 +11,7 @@ For each photon the position, energy, and time of arrival is recorded by the X-r
 The internship will take place at the astronomy department (http://irfu.cea.fr/dap/) can start mid-march for 3-5 months. 
 
 If you want to know more, read the full subject description here in english:  [PDF](Sujet-these-2020-AdvTools-EN.pdf)
-If you have questions or want to apply, contact me by email (fabio acero at cea fr) !
+If you have questions or want to apply, contact me by email (fabio.acero at cea fr) !
 
 ## Proposition de sujets de recherche en 2021 au CEA/Saclay
 Sujets de stage de Master 2 (3 à 5 mois) et de thèse sur l'étude des vestiges de supernova en rayons X.
@@ -23,7 +23,7 @@ L'objectif scientifique est de pouvoir mesurer à petite échelle spatiale les p
 
 Pour plus d'informations, lire la description du sujet de stage ici ([PDF](Sujet-stage-2020-AdvTools-FR.pdf)) et du sujet de thèse ici ([PDF](Sujet-these-2020-AdvTools-FR.pdf)).
 
-Pour postuler, envoyer CV par email (fabio acero at cea fr).
+Pour postuler, envoyer CV par email (fabio.acero at cea fr).
 
 ## Références: 
 Cosmic microwave background reconstruction from WMAP and Planck PR2 data; [Bobin et al., 2016](https://ui.adsabs.harvard.edu/abs/2016A%26A...591A..50B/abstract) <br/>
