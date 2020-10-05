@@ -1,5 +1,5 @@
 
-🆕 **Important News: PhD funded by the French Space Agency [CNES](https://rt-theses.cnes.fr/?q=aas) and [AHEAD2020](http://ahead.iaps.inaf.it/) European project ** 
+🆕 **Important News: PhD position with fundings from the French Space Agency [CNES](https://rt-theses.cnes.fr/?q=aas) and [AHEAD2020](http://ahead.iaps.inaf.it/) European project ** 
 
 ![X-ray data cubes](SNR-gallery.jpg)
 A gallery of supernova remnants X-ray observations. The corresponding supernovae has been observed on Earth in the 16th and 17th century.
