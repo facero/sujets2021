@@ -16,7 +16,7 @@ For each photon the position, energy, and time of arrival is recorded by the X-r
 The internship will take place at the astronomy department (http://irfu.cea.fr/dap/) can start mid-march for 3-5 months.
 We have secured fundings to continue the internship work in a PhD starting in October 2021 at Paris Saclay University.
 
-If you want to know more, read the full subject description here in english:  [PDF](Sujet-these-CNES-2021-AdvTools-EN.pdf).
+If you want to know more, read the full subject description here in english:  [PDF](Sujet-these-CNES-2021-AdvTools-EN.pdf) and French [PDF](Sujet-these-2021-AdvTools-FR.pdf).
 
 ## Proposition de sujets de recherche en 2021 au CEA/Saclay
 Sujets de stage de Master 2 (3 à 5 mois) et de thèse sur l'étude des vestiges de supernova en rayons X disponible sur le [site de la SF2A](http://stages-masters.sf2a.eu/). 
