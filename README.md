@@ -8,11 +8,13 @@ We propose to develop new tools to **build a 3D view of the ejecta map** based o
 The study will use existing observations from the Chandra X-ray telescope and synthetic Athena X-IFU observations.  
 Athena is the X-ray observatory L-class mission selected by ESA to launch in early 2030s. Watch this nice X-IFU video [here](https://www.youtube.com/watch?v=mOf6WIDmi30).
 
-## Internship/PhD subjects at CEA/Saclay: New multi-dimensional analysis methods for X-rays
 For questions and application contact me at **fabio.acero at cea fr**.  
 Applications received before December 1st will be given full consideration.  
+
+## Internship/PhD subjects at CEA/Saclay: New multi-dimensional analysis methods for X-rays
 For each photon the position, energy, and time of arrival is recorded by the X-ray satellite. Therefore X-ray data are multidimensional (X, Y, Energy, Time) by nature.  Here we propose to develop novel techniques to fully exploit the multidimensional nature of the data by combining blind source separation technique with feature learning [Bobin, Acero, Picquenot, 2019](https://ieeexplore.ieee.org/document/9022675/).
-The internship will take place at the astronomy department (http://irfu.cea.fr/dap/) can start mid-march for 3-5 months. 
+The internship will take place at the astronomy department (http://irfu.cea.fr/dap/) can start mid-march for 3-5 months.
+We have secured fundings to continue the internship work in a PhD starting in October 2021 at Paris Saclay University.
 
 If you want to know more, read the full subject description here in english:  [PDF](Sujet-these-CNES-2021-AdvTools-EN.pdf).
 
